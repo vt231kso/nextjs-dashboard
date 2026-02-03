@@ -180,15 +180,15 @@
 - Застосувала метод bind для передачі додаткових параметрів (наприклад, ID інвойсу) у серверні дії.
 - Налаштувала автоматичне оновлення інтерфейсу за допомогою revalidatePath, що дозволяє очистити кеш на стороні клієнта після внесення змін.
 
-![Скріншот структури дашборду](screenshots/chapter-11(create invoice).png)
+![Скріншот структури дашборду](screenshots/chapter-11(create-invoice).png)
 
-![Скріншот структури дашборду](screenshots/chapter-11(created invoice).png)
+![Скріншот структури дашборду](screenshots/chapter-11(created-invoice).png)
 
-![Скріншот структури дашборду](screenshots/chapter-11(edit invoice).png)
+![Скріншот структури дашборду](screenshots/chapter-11(edit-invoice).png)
 
-![Скріншот структури дашборду](screenshots/chapter-11(edited invoice).png)
+![Скріншот структури дашборду](screenshots/chapter-11(edited-invoice).png)
 
-![Скріншот структури дашборду](screenshots/chapter-11(deleted invoice).png)
+![Скріншот структури дашборду](screenshots/chapter-11(deleted-invoice).png)
 
 **Роздуми:**
 
